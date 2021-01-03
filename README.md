@@ -22,3 +22,8 @@ Collection of python projects made by me between Dec 25, 2020 to Feb 10, 2021.
 	> A simple merry christmas animation made with turtle.\
 	> Push Date : 01 January, 2021 \
 	> Link to project : [Cafe Management System](https://github.com/pyGuru123/WinterLong-2021/tree/main/Cafe%20Management%20System)
+
+* ## Image Downloader
+	> A simple image downloader made with tkinter and requests.\
+	> Push Date : 03 January, 2021 \
+	> Link to project : [Cafe Management System](https://github.com/pyGuru123/WinterLong-2021/tree/main/Image%20Downloader)
