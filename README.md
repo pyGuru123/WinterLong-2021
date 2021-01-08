@@ -6,7 +6,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 Collection of python projects made by me between Dec 25, 2020 to Feb 10, 2021. \
-I created all these projects while watching [Winter Sonata], and waiting for weekely
+I created all these projects while watching [Winter Sonata] ❄️, and waiting for weekely
 episodes of Attack on Titan : The Final Season.
 
 ### All the projects are listed here
