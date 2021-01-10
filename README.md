@@ -37,7 +37,7 @@ episodes of Attack on Titan : The Final Season.
 	> Link to project : [InstaDownloader](https://github.com/pyGuru123/WinterLong-2021/tree/main/Instagram%20Batch%20post%20downloader)
 
 * ## Bird Migration analysis and visualization
-	> Analysing Migraion pattern of 3 gulls : Eric, Nico & Sanne.\
+	> Analysing Migration pattern of 3 gulls : Eric, Nico & Sanne.\
 	> Push Date : 10 January, 2021 \
 	> Link to project : [Bird Migration](https://github.com/pyGuru123/WinterLong-2021/tree/main/Tracking%20Bird%20Migration)
 
