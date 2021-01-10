@@ -36,4 +36,9 @@ episodes of Attack on Titan : The Final Season.
 	> Push Date : 08 January, 2021 \
 	> Link to project : [InstaDownloader](https://github.com/pyGuru123/WinterLong-2021/tree/main/Instagram%20Batch%20post%20downloader)
 
+* ## Bird Migration analysis and visualization
+	> A simple app to download all the posts of a profile.\
+	> Push Date : 10 January, 2021 \
+	> Link to project : [Bird Migration](https://github.com/pyGuru123/WinterLong-2021/tree/main/Tracking%20Bird%20Migration)
+
 [Winter Sonata]: https://en.wikipedia.org/wiki/Winter_Sonata
