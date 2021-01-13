@@ -15,7 +15,7 @@ Download this project from here [Download Word 2 PDF](https://downgit.github.io/
 
 ## Requirements
 
-The Application works for windows and supposes you have microsoft office ( >2007 ) installed. \
+The Application works for windows and supposes you have microsoft office ( >2007 ) installed. 
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
 * pywin32
