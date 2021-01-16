@@ -49,6 +49,6 @@ episodes of Attack on Titan : The Final Season.
 * ## NASA GPM IMERG Analysis and Visualization
 	> Visualzation of global mean precipitaion using NASA IMERG dataset\
 	> Push Date : 16 January, 2021 \
-	> Link to project : [Word 2 PDF](https://github.com/pyGuru123/WinterLong-2021/tree/main/Global%20Mean%20Precipitation%20IMERG%20Analysis)
+	> Link to project : [GPM IMERG Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/Global%20Mean%20Precipitation%20IMERG%20Analysis)
 
 [Winter Sonata]: https://en.wikipedia.org/wiki/Winter_Sonata
