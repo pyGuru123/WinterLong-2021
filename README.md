@@ -54,7 +54,7 @@ episodes of Attack on Titan : The Final Season.
 * ## MineSweeper
 	> A simple minesweeper game made using tkinter library\
 	> Push Date : 20 January, 2021 \
-	> Link to project : [GPM IMERG Analysis](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/WinterLong-2021/tree/main/MineSweeper)
+	> Link to project : [MineSweeper](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/WinterLong-2021/tree/main/MineSweeper)
 
 <br/>
 <h3 align="center"> Show ❤️ By Starring this <img align='center'  height="22" src="https://img.shields.io/badge/Repo!%F0%9F%98%8A-purple.svg?&style=for-the-badge&logoColor=green" /></h3>
