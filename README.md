@@ -7,7 +7,7 @@
 
 Collection of python projects made by me between Dec 25, 2020 to Feb 10, 2021. \
 I created all these projects while watching [Winter Sonata] ❄️, and waiting for weekely
-episodes of Attack on Titan : The Final Season.
+episodes of [Attack on Titan : The Final Season].
 
 ### All the projects are listed here
 
@@ -61,3 +61,4 @@ episodes of Attack on Titan : The Final Season.
 
 
 [Winter Sonata]: https://en.wikipedia.org/wiki/Winter_Sonata
+[Attack on Titan : The Final Season]: https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season
