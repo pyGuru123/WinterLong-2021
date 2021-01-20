@@ -51,8 +51,13 @@ episodes of Attack on Titan : The Final Season.
 	> Push Date : 16 January, 2021 \
 	> Link to project : [GPM IMERG Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/Global%20Mean%20Precipitation%20IMERG%20Analysis)
 
+* ## MineSweeper
+	> A simple minesweeper game made using tkinter library\
+	> Push Date : 20 January, 2021 \
+	> Link to project : [GPM IMERG Analysis](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/WinterLong-2021/tree/main/MineSweeper)
+
 <br/>
-<h4 align="center"> Show ❤️ By Starring this <img align='center'  height="22" src="https://img.shields.io/badge/Repo!%F0%9F%98%8A-purple.svg?&style=for-the-badge&logoColor=green" /></h4>
+<h3 align="center"> Show ❤️ By Starring this <img align='center'  height="22" src="https://img.shields.io/badge/Repo!%F0%9F%98%8A-purple.svg?&style=for-the-badge&logoColor=green" /></h3>
 
 
 [Winter Sonata]: https://en.wikipedia.org/wiki/Winter_Sonata
