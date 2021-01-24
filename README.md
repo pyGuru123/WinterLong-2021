@@ -62,9 +62,9 @@ episodes of [Attack on Titan : The Final Season].
 	> Link to project : [Tic Tac Toe](https://github.com/pyGuru123/WinterLong-2021/tree/main/Tic%20Tac%20Toe)
 
 * ## WhatsApp Group Chat Analysis
-	> A simple Tic Tac Toe game made using tkinter library\
-	> Push Date : 21 January, 2021 \
-	> Link to project : [Tic Tac Toe](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
+	> Analysing whatsapp group chats with python \
+	> Push Date : 24 January, 2021 \
+	> Link to project : [WhatsApp Group Chat Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
 
 
 <br/>
