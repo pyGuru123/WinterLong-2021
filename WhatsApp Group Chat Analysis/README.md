@@ -70,7 +70,7 @@ Download this project from here [Download WhatsApp Group Chat Analysis](https://
 ![Alt text](plots/most_common_words.png?raw=true "Most Common Words used")
 
 
-### Most frequent wordcloud
+### Most frequent used words
 ![Alt text](plots/most_frequent_wordcloud.png?raw=true "Most frequent wordcloud")
 
 
