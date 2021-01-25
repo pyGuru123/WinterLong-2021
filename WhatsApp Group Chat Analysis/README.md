@@ -54,26 +54,26 @@ Download this project from here [Download WhatsApp Group Chat Analysis](https://
 
 ## Some interesting results
 
-![Alt text](plots/busiest_hours.png?raw=true "Busiest Hours")
 
 ### Busiest Hours
-
-![Alt text](plots/calendarmap.png?raw=true "CalendarMap")
+![Alt text](plots/busiest_hours.png?raw=true "Busiest Hours")
 
 ### Calendar Map
+![Alt text](plots/calendarmap.png?raw=true "CalendarMap")
 
-![Alt text](plots/Message_sent_each_weekday.png?raw=true "Message sent each weekday")
 
 ### Message sent each weekday
+![Alt text](plots/Message_sent_each_weekday.png?raw=true "Message sent each weekday")
 
-![Alt text](plots/most_common_words.png?raw=true "Most Common Words used")
 
 ### Most Common Words used
+![Alt text](plots/most_common_words.png?raw=true "Most Common Words used")
 
-![Alt text](plots/most_frequent_wordcloud.png?raw=true "Most frequent wordcloud")
 
 ### Most frequent wordcloud
+![Alt text](plots/most_frequent_wordcloud.png?raw=true "Most frequent wordcloud")
 
-![Alt text](plots/most_popular_hours.png?raw=true "Most popular hours")
 
 ### Most popular hours
+![Alt text](plots/most_popular_hours.png?raw=true "Most popular hours")
+
