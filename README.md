@@ -66,6 +66,11 @@ episodes of [Attack on Titan : The Final Season].
 	> Push Date : 24 January, 2021 \
 	> Link to project : [WhatsApp Group Chat Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
 
+* ## Rock Paper Scissor
+	> Analysing whatsapp group chats with python \
+	> Push Date : 24 January, 2021 \
+	> Link to project : [WhatsApp Group Chat Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
+
 
 <br/>
 <h3 align="center"> Show ❤️ By Starring this <img align='center'  height="22" src="https://img.shields.io/badge/Repo!%F0%9F%98%8A-purple.svg?&style=for-the-badge&logoColor=green" /></h3>
