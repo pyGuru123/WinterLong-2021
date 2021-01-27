@@ -69,7 +69,7 @@ episodes of [Attack on Titan : The Final Season].
 * ## Rock Paper Scissor
 	> Rock Paper Scissor game with python \
 	> Push Date : 28 January, 2021 \
-	> Link to project : [WhatsApp Group Chat Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
+	> Link to project : [WhatsApp Rock Paper Scissor](https://github.com/pyGuru123/WinterLong-2021/tree/main/Rock%20Paper%20Scissor)
 
 
 <br/>
