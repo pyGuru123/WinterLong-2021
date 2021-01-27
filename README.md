@@ -67,8 +67,8 @@ episodes of [Attack on Titan : The Final Season].
 	> Link to project : [WhatsApp Group Chat Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
 
 * ## Rock Paper Scissor
-	> Analysing whatsapp group chats with python \
-	> Push Date : 24 January, 2021 \
+	> Rock Paper Scissor game with python \
+	> Push Date : 28 January, 2021 \
 	> Link to project : [WhatsApp Group Chat Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/WhatsApp%20Group%20Chat%20Analysis)
 
 
