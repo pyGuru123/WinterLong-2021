@@ -69,12 +69,12 @@ episodes of [Attack on Titan : The Final Season].
 * ## Rock Paper Scissor
 	> Rock Paper Scissor game with python \
 	> Push Date : 28 January, 2021 \
-	> Link to project : [WhatsApp Rock Paper Scissor](https://github.com/pyGuru123/WinterLong-2021/tree/main/Rock%20Paper%20Scissor)
+	> Link to project : [Rock Paper Scissor](https://github.com/pyGuru123/WinterLong-2021/tree/main/Rock%20Paper%20Scissor)
 
 * ## Picture Sliding Puzzle
 	> Picture Sliding Puzzle game is an implementation of 15 puzzle \
-	> Push Date : 28 January, 2021 \
-	> Link to project : [WhatsApp Rock Paper Scissor](https://github.com/pyGuru123/WinterLong-2021/tree/main/Rock%20Paper%20Scissor)
+	> Push Date : 30 January, 2021 \
+	> Link to project : [Picture Sliding Puzzle](https://github.com/pyGuru123/WinterLong-2021/tree/main/Rock%20Paper%20Scissor)
 
 
 <br/>
