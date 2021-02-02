@@ -6,7 +6,7 @@
 
 CoDAT is a python based application to detect color from images and track colors & objects in realtime using HSV object detection method. CoDAT uses basic computer vision tools to achieve this.
 
-![Alt text](app.png?raw=true "CoDAT")
+![Alt text](assets/gif1.gif?raw=true "CoDAT")
 
 ## How to Download
 
