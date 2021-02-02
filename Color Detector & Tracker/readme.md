@@ -43,12 +43,17 @@ Double click the application.py to open the GUI application, select any of the b
 2. Track objects from image : This feature allows you to track colors from a imported image. Just choose a image and click detect, in the next screen adjust HSV values to track colors.
 3. Track objects in realtime : You can track objects in realtime using this feature. Just select whether you want to track objects using your pc camera or using your android camera ( IP Webcam required). If choosen pc camera, pass 0 as your camera id and on choosing stream/android pass the local stream url from IP Webcam, and again on the next screen adjust hsv values to detect objects
 
+![Alt text](assets/gif2.gif?raw=true "CoDAT")
+![Alt text](assets/gif3.gif?raw=true "CoDAT")
+
 ### How to get streaming server IP from IP Webcam
 
 1. Go to playstore, install IP Webcam application.
 2. Turn on your phone hotspot and connect it with pc.
 3. Open app, scroll to bottom, click Start Server for Video stream ( allow permissions when asked )
 4. It will open your android camera and start video stream, at the bottom it shows IPv4 address, this is your server IP
+
+![Alt text](assets/ipwebcam.png?raw=true "IP Webcam")
 
 ## Contributing
 
