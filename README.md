@@ -78,7 +78,7 @@ I created all these projects while watching [Winter Sonata] ❄️, [Anohana : T
 * ## CoDAT : Color detection and tracker
 	> CoDAT is an application to detect colors from images and track objects using HSV object detection. \
 	> Push Date : 02 February, 2021 \
-	> Link to project : [Picture Sliding Puzzle](https://github.com/pyGuru123/WinterLong-2021/tree/main/Rock%20Paper%20Scissor)
+	> Link to project : [CoDAT](https://github.com/pyGuru123/WinterLong-2021/tree/main/Color%20Detector%20%26%20Tracker)
 
 
 <br/>
