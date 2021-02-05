@@ -81,8 +81,8 @@ I created all these projects while watching [Winter Sonata] ❄️, [Anohana : T
 	> Link to project : [CoDAT](https://github.com/pyGuru123/WinterLong-2021/tree/main/Color%20Detector%20%26%20Tracker)
 
 * ## Folder Organizer
-	> CoDAT is an application to detect colors from images and track objects using HSV object detection. \
-	> Push Date : 02 February, 2021 \
+	> Folder Organizer is an application to automate organization of your cluttered folders. \
+	> Push Date : 05 February, 2021 \
 	> Link to project : [CoDAT](https://github.com/pyGuru123/WinterLong-2021/tree/main/Color%20Detector%20%26%20Tracker)
 
 
