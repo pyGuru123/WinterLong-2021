@@ -83,7 +83,7 @@ I created all these projects while watching [Winter Sonata] ❄️, [Anohana : T
 * ## Folder Organizer
 	> Folder Organizer is an application to automate organization of your cluttered folders. \
 	> Push Date : 05 February, 2021 \
-	> Link to project : [CoDAT](https://github.com/pyGuru123/WinterLong-2021/tree/main/Color%20Detector%20%26%20Tracker)
+	> Link to project : [Folder Organizer](https://github.com/pyGuru123/WinterLong-2021/tree/main/Folder%20Organizer)
 
 
 <br/>
