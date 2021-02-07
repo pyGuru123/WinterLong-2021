@@ -88,7 +88,7 @@ I created all these projects while watching [Winter Sonata] ❄️, [Anohana : T
 * ## PDF AudioBook
 	> PDF AudioBook is a simple pdf reading applcaion using text to speech. \
 	> Push Date : 05 February, 2021 \
-	> Link to project : [Folder Organizer](https://github.com/pyGuru123/WinterLong-2021/tree/main/Folder%20Organizer)
+	> Link to project : [Folder Organizer](https://github.com/pyGuru123/WinterLong-2021/tree/main/PDF%20AudioBook)
 
 <br/>
 <h3 align="center"> Show ❤️ By Starring this <img align='center'  height="22" src="https://img.shields.io/badge/Repo!%F0%9F%98%8A-purple.svg?&style=for-the-badge&logoColor=green" /></h3>
