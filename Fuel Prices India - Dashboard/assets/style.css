@@ -21,6 +21,7 @@
 
 .header-img {
 	height: 100px;
+	margin-top: -30px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 100px;
@@ -31,7 +32,7 @@
 	text-align: center;
 	font-size: 48px;
 	font-weight: bold;
-	margin: 0 auto;
+	margin: -10 auto;
 }
 
 .header-description {
@@ -40,4 +41,22 @@
 	padding: 2px;
 	text-align: center;
 	max-width: 384px;
+}
+
+.menu {
+	height: 112px;
+	width: 912px;
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 24px;
+	margin: -35px auto 0 auto;
+	background-color: #FFFFFF;
+	box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+.menu-title {
+	margin-bottom: 6px;
+	width: 90px;
+	font-weight: bold;
+	color: #079A82;
 }
