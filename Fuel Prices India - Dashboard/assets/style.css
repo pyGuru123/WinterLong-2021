@@ -1,0 +1,26 @@
+.body {
+	font-family: "Lato", sans-serif;
+	padding: 0;
+	margin: 0px;
+	background-color: #F7F7F7;
+}
+
+.header {
+	margin : 0;
+	background-color: #222222;
+	height: 256px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.header-img {
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+}
+
+.header-title {
+	
+}
