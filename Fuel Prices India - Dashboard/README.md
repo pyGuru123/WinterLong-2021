@@ -27,14 +27,9 @@ pip install pandas
 
 ## Usage
 
-Double click the application.py script to open the GUI application, then select a folder which you want to organize. The application has following features
-1. Folder info : gives metadata related to the selected folder.
-2. File Count : Counts the number of existing files based on substring or extension passed
-3. Organize files : Automatically move files to respected folders, thus cleaning your folder
-4. Move files : move all the files to selected destination based on passed file extension
-5. Delete files : Deletes all the files based on passed file extension
+Navigate to this folder and open command prompt in it. Type app.py and hit enter. Python will start a local Flask Server on the address : http://127.0.0.1:8050/ Copy this address and paste it inside a web browser to start running the dashboard.
 
-### !Warning : Delete feature is permanent, your files will not go to recycle bin, hence cannot be recoverd. Use this feature carefully.
+You can select city, fuel type and date from the given menubar.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
