@@ -6,7 +6,10 @@ import numpy as np
 
 from csvparser import get_dataframe
 
-df = get_dataframe()
+df, cities = get_dataframe()
+fuel_type = ['Diesel', 'Petrol']
+diesel_cities, petrol_cities = cities
+fuelDict = {fuel_type[0]:diesel_cities, fuel_type[1]:petrol_cities}
 
 external_stylesheets = [
 	{
@@ -45,7 +48,7 @@ app.layout = html.Div(
 							id="region-filter",
 							options=[
 								{"label":region, "value":region}
-								for region in np.sort(df.city.unique())
+								for region in diesel_cities
 							],
 							value='Delhi',
 							clearable=False,
@@ -59,10 +62,10 @@ app.layout = html.Div(
 						dcc.Dropdown(
 							id="type-filter",
 							options=[
-								{"label":fuel_type, "value":fuel_type}
-								for fuel_type in np.sort(df.fuel.unique())
+								{"label":fuel, "value":fuel}
+								for fuel in fuel_type
 							],
-							value='Petrol',
+							value='Diesel',
 							clearable=False,
 							searchable=False,
 							className="dropdown"
@@ -92,17 +95,21 @@ app.layout = html.Div(
 					),
 					className="card",
 				),
-				html.Div(
-					children=dcc.Graph(
-						id='diesel-chart', config={"displayModeBar": False}
-					),
-					className="card",
-				),
 			],
 			className="wrapper",
 		),
 	]
 )
+
+@app.callback(
+	dash.dependencies.Output('region-filter', 'options'),
+	[dash.dependencies.Input('type-filter', 'value')]
+)
+def update_date_dropdown(name):
+	return [{'label': i, 'value': i} for i in fuelDict[name]]
+
+
+
 
 if __name__ == '__main__':
 	app.run_server(debug=True)

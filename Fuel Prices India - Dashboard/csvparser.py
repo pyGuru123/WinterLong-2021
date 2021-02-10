@@ -17,9 +17,8 @@ def get_dataframe():
 	df = pd.concat(li, axis=0, ignore_index=True)
 	df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
 	df.sort_values('date', inplace=True)
-	
-	return df
 
-# df = get_dataframe()
-# print(df)
-# print(np.sort(df.city.unique()))
+	diesel_city = np.sort(df.loc[df['fuel'] == 'Diesel'].city.unique())
+	petrol_city = np.sort(df.loc[df['fuel'] == 'Petrol'].city.unique())
+	
+	return df, (diesel_city, petrol_city)
