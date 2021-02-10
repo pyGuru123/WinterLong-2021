@@ -1,8 +1,10 @@
+import pandas as pd
+import numpy as np
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import pandas as pd
-import numpy as np
+from dash.dependencies import Output, Input
 
 from csvparser import get_dataframe
 
@@ -91,7 +93,7 @@ app.layout = html.Div(
 			children=[
 				html.Div(
 					children=dcc.Graph(
-						id='petrol-chart', config={"displayModeBar": False}
+						id='price-chart', config={"displayModeBar": False}
 					),
 					className="card",
 				),
@@ -102,14 +104,52 @@ app.layout = html.Div(
 )
 
 @app.callback(
-	dash.dependencies.Output('region-filter', 'options'),
-	[dash.dependencies.Input('type-filter', 'value')]
+	Output('region-filter', 'options'),
+	[Input('type-filter', 'value')]
 )
 def update_date_dropdown(name):
 	return [{'label': i, 'value': i} for i in fuelDict[name]]
 
 
+@app.callback(
+	Output("price-chart", "figure"),
+	[
+		Input("region-filter", "value"),
+		Input("type-filter", "value"),
+		Input("date-range", "start_date"),
+		Input("date-range", "end_date"),
+	]
+)
+def update_chart(region, fuel, start_date, end_date):
+	mask = (
+		(df.city == region)
+		& (df.fuel == fuel)
+		& (df.date >= start_date)
+		& (df.date <= end_date)
+	)
+	filtered_data = df.loc[mask, :]
+	price_chart_figure = {
+		"data": [
+			{
+				"x": filtered_data["date"],
+				"y": filtered_data["rate"],
+				"type": "lines",
+				"hovertemplate": "$%{y:.2f}<extra></extra>",
+			},
+		],
+		"layout": {
+			"title": {
+				"text": f"Average Price of {fuel} in {region}",
+				"x": 0.05,
+				"xanchor": "left",
+			},
+			"xaxis": {"fixedrange": True},
+			"yaxis": {"tickprefix": "₹", "fixedrange": True},
+			"colorway": ["#17B897"],
+		},
+	}
 
+	return price_chart_figure
 
 if __name__ == '__main__':
 	app.run_server(debug=True)
