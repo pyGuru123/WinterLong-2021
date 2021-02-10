@@ -56,7 +56,33 @@
 
 .menu-title {
 	margin-bottom: 6px;
-	width: 90px;
 	font-weight: bold;
 	color: #079A82;
+}
+
+.wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1024px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 32px;
+}
+
+.card {
+	margin-bottom: 24px;
+	box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
+
+.Select-control {
+	width: 256px;
+	height: 48px;
+}
+
+.Select--single > .Select-control .Select-Value, .Select-placeholder {
+	line-height: 48px;
+}
+
+.Select--multi .Select-value-label {
+	line-height: 32px;
 }
