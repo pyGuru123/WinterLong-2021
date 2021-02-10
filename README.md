@@ -93,7 +93,7 @@ I created all these projects while watching [Winter Sonata] ❄️, [Anohana : T
 * ## Fuel Price Analysis - Dashboard
 	> Fuel Price Analysis is a simple python dashboard made with Dash to analyze ful prices in different parts of India. \
 	> Push Date : 10 February, 2021 \
-	> Link to project : [PDF AudioBook](https://github.com/pyGuru123/WinterLong-2021/tree/main/Fuel%20Prices%20India%20-%20Dashboard)
+	> Link to project : [Fuel Price Analysis](https://github.com/pyGuru123/WinterLong-2021/tree/main/Fuel%20Prices%20India%20-%20Dashboard)
 
 <br/>
 <h3 align="center"> Show ❤️ By Starring this <img align='center'  height="22" src="https://img.shields.io/badge/Repo!%F0%9F%98%8A-purple.svg?&style=for-the-badge&logoColor=green" /></h3>
