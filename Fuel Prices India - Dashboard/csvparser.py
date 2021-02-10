@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def get_dataframe():
 	petrol_data = 'data/petrol.csv'
@@ -18,3 +19,7 @@ def get_dataframe():
 	df.sort_values('date', inplace=True)
 	
 	return df
+
+# df = get_dataframe()
+# print(df)
+# print(np.sort(df.city.unique()))

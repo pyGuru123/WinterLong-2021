@@ -1,3 +1,8 @@
+*, html {
+	margin:0;
+	padding:0;  
+}
+
 .body {
 	font-family: "Lato", sans-serif;
 	padding: 0;
@@ -22,5 +27,17 @@
 }
 
 .header-title {
-	
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 48px;
+	font-weight: bold;
+	margin: 0 auto;
+}
+
+.header-description {
+	color: #CFCFCF;
+	margin: 6px auto;
+	padding: 2px;
+	text-align: center;
+	max-width: 384px;
 }

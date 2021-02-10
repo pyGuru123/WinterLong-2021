@@ -2,6 +2,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
+import numpy as np
 
 from csvparser import get_dataframe
 
@@ -30,9 +31,58 @@ app.layout = html.Div(
 				),
 				html.P(
 					"Analyze the prices of petrol and diesel "
-						"in India between 2001 to 2020.", className="header-description"
+						"in various cities of India between" 
+						" 2001 to 2020.", className="header-description"
 				),
 			], className="header"
+		),
+		html.Div(
+			children=[
+				html.Div(
+					children=[
+						html.Div(children="Region", className="menu-title"),
+						dcc.Dropdown(
+							id="region-filter",
+							options=[
+								{"label":region, "value":region}
+								for region in np.sort(df.city.unique())
+							],
+							value='Delhi',
+							clearable=False,
+							className="dropdown"
+						),
+					]
+				),
+				html.Div(
+					children=[
+						html.Div(children="Fuel Type", className="menu-title"),
+						dcc.Dropdown(
+							id="type-filter",
+							options=[
+								{"label":fuel_type, "value":fuel_type}
+								for fuel_type in np.sort(df.fuel.unique())
+							],
+							value='Petrol',
+							clearable=False,
+							searchable=False,
+							className="dropdown"
+						),
+					]
+				),
+				html.Div(
+					children=[
+						html.Div(children="Date Range", className="menu-title"),
+						dcc.DatePickerRange(
+							id="date-range",
+							min_date_allowed=df.date.min().date(),
+							max_date_allowed=df.date.max().date(),
+							start_date=df.date.min().date(),
+							end_date=df.date.max().date(),
+						),
+					]
+				),
+			], 
+			className='menu'
 		)
 	]
 )
